@@ -10,28 +10,28 @@ Tapapiku estas mikse apriora kaj aposteriora lingvo. Multaj vortoj estas tute in
 ## Fonemaro kaj alfabeto
 
 Fonemaro de la lingvo konsistas el 18 fonemoj: 11 konsonantoj reprezentataj latinalfabete de la literoj M, N, P, T, K, F, S, X, H, R, L; 5 vokaloj reprezentataj de A, E, I, O, U kaj 2 semivokaloj reprezentataj de W kaj J.
-Ili permesas grandan fonetikan variaĵon kiel indikite sube:
+Ili permesas grandan fonetikan variaĵon kiel ekzemple indikite sube:
 
-M: m ɱ
-N: n n̪ ɳ ɲ ŋ ɴ
-P: p b p̪ b̪
-T: t t̪ d d̪ ʈ ɖ
-K: k g q ɢ
-F: f v β ɸ θ ð
-S: s z
-X: ʃ ʒ ʂ ʐ x
-H: χ ħ h ɦ ʜ
-R: r ʀ ɾ ɽ
-L: l ɭ ʟ ɺ
-
-A: a ɶ ä ɐ ʌ
-E: e e̞ ɛ œ ɘ ɜ
-I: i   ɪ ʏ
-O: o o̞ ɤ ɤ̞ ɔ ɒ - ö
-U: u ɯ ʊ
-
-W: w
-J: j
+| Simbolo | Eblaj fonetikaj realigoj |
+|------------|-------------------------------|
+M | m ɱ
+N | n n̪ ɳ ɲ ŋ ɴ
+P | p b p̪ b̪
+T | t t̪ d d̪ ʈ ɖ
+K | k g q ɢ
+F | f v β ɸ θ ð
+S | s z
+X | ʃ ʒ ʂ ʐ x
+H | χ ħ h ɦ ʜ
+R | r ʀ ɾ ɽ
+L | l ɭ ʟ ɺ
+A | a ɶ ä ɐ ʌ
+E | e e̞ ɛ œ ɘ ɜ
+I | i   
+O | o o̞ ɤ ɤ̞ ɔ ɒ - ö
+U | u ɯ ʊ
+W | w
+J | j
 
 Transkribo estas unu fonemo - unu litero.
 
@@ -42,7 +42,7 @@ Transkribo estas unu fonemo - unu litero.
 ## Vortordo kaj modifila ordo.
 
 Vortordo estas defaŭlte SVO tamen por dinamikaj verboj ĝi sufiĉe liberas danke al specialaj partikloj *la*, kiu markas la subjekto kaj *e*, kiu markas la objekto.
-Ekz. la frazo "La hundo manĝas katon"^*
+Ekz. la frazo "La hundo manĝas katon"^^*
 
 > paw mokun maw
 
@@ -66,7 +66,8 @@ Kapo antaŭas siajn modifilojn, kiel en Tokipono kaj male al la Angla
 
 Signifas tion, *mia kato* aŭ *la kato mias*. *Mi* havas la saman Esperanta signifo.
 
-*: ĉar *maw* modifas *mokun*, la antaŭa frazo "paw mokun maw" laŭlitere signifas "hundo manĝas kate", kiu povus signifi, ke la hundo manĝas kiel manĝus kato aŭ ke la hundo manĝas katon. Tio ĝenerale klaras laŭ la ĉirkaŭteksto. Se oni volas aŭ devas precizigi, la partiklo *e* uzendas. La frazo do estus:
+---
+\* ĉar *maw* modifas *mokun*, la antaŭa frazo "paw mokun maw" laŭlitere signifas "hundo manĝas kate", kiu povus signifi, ke la hundo manĝas kiel manĝus kato aŭ ke la hundo manĝas katon. Tio ĝenerale klaras laŭ la ĉirkaŭteksto. Se oni volas aŭ devas precizigi, la partiklo *e* uzendas. La frazo do estus:
 
 > paw mokun e maw
 
@@ -137,6 +138,7 @@ En aliaj lingvoj oni ne uzas multe la formon *unu la alian* ĉar tiu informo oft
 
 Signifas tion, "Ni interparolas", kompreneble ni inkluzivigas la celata(j)n ricevanto(j)n.     
 
+[kontinuendas...]
 
 
 
