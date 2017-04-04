@@ -5,11 +5,13 @@ Xaw! Bonvenon al tiu enkonduko al la ĉielarka lingvo tapapiku! Tiu estas mia la
 
 Tapapiku mem estas kompona vorto, *tapa*, kiu signifas tion, *lingvo* kaj *parolado*, kaj *piku*, kiu havas la vastan signififon "la kvalito havi ĉiujn kaj ĉiajn kolorojn kaj nuancojn, esti unuigita per la malsamecoj". La vorto por la fizika ĉielarko ekzemple estas *pokepiku*, komponata de *poke*, arko (el la Sveda *Båge*) kaj piku. Sed *piku* tute taŭgas ankaŭ por homoj, ĉielarkuloj parolas tapapiku'n!
 
-Tapapiku estas mikse apriora kaj aposteriora lingvo. Multaj vortoj estas tute inventitaj, kelkaj vortoj mimas la sonon de tio, kion ili reprezentas (ili estas onomatopeaj) kaj multaj estas adaptitaj, foje forte, por respekti ĝia fonemaro kaj gramatiko. Vortprovizo venas el multaj lingvoj, kun specifa atento al malgrandaj lingvoj.
+Tapapiku estas mikse apriora kaj aposteriora lingvo. Multaj vortoj estas tute inventitaj, kelkaj vortoj mimas la sonon de tio, kion ili reprezentas (ili estas onomatopeaj) kaj aliaj estas adaptitaj, foje forte, por respekti ĝia fonemaro kaj gramatiko. Vortprovizo venas el multaj lingvoj, kun specifa atento al malgrandaj lingvoj. 
+
+Tapapiku estas inspirita de la Tokipona, Vorlin, la Keĉua, la Indonezia, Pandunia kaj multaj aliaj naturaj kaj artefaritaj lingvoj. Tapapiku celas esti mezsimpla, belsona kaj pova lingvo, tio malfacilegas kaj defias min.
 
 ## Fonemaro kaj alfabeto
 
-Fonemaro de la lingvo konsistas el 18 fonemoj: 11 konsonantoj reprezentataj latinalfabete de la literoj M, N, P, T, K, F, S, X, H, R, L; 5 vokaloj reprezentataj de A, E, I, O, U kaj 2 semivokaloj reprezentataj de W kaj J.
+Fonemaro de la lingvo konsistas el 18 fonemoj: 11 konsonantoj reprezentataj latinalfabete de la literoj M, N, P, T, K, F, S, X, H, R, L; 5 vokaloj reprezentataj de A, E, I, O, U kaj 2 semivokaloj reprezentataj de W kaj J. Alia propra pli tapapiku'eca sistemo por transkribi fonemojn estas pripensota, se vi havas sugestojn, kontaktu min!
 Ili permesas grandan fonetikan variaĵon kiel ekzemple indikite sube:
 
 | Simbolo | Eblaj fonetikaj realigoj |
@@ -34,6 +36,24 @@ W | w
 J | j
 
 Transkribo estas unu fonemo - unu litero.
+
+## Silabkreado
+
+Tapapiku havas mezkomplikan silaban strukturon, kiel la vasta plejparto de la lingvoj. Oni difinas:
+
+V: vokaloj
+S: semivokaloj
+K: konsonantoj (m,n,p,t,k,f,s,x,h,r,l)
+A: antaŭlikvaj konsonantoj: (k,p,t,f)
+L: likvaj konsonantoj (l,r)
+F: finalaj konsonantoj (n,l,s)
+
+Kiuj permesas krei silabojn faritaj laŭ la jena regulara esprimo:
+
+(K(S)|AL)V(S)(F)
+
+Ekz. estas permesataj *ka*, *pan*, *e*, *tro*, *plu*, *waj*, *najs*, *kjun* sed ne *stra*, *ski*, *ste*, *kvo*
+
 
 ## Radikoj kaj derivaĵoj
 
@@ -79,7 +99,7 @@ Tapapiku havas tri bazajn personajn pronomojn:
 - *Ju*: por indiki la grupon de la celata(j) ricevanto(j) (venas el la Angla kaj aliaj ĝermanaj lingoj)
 - *Paj*: por indiki la grupo de la aliajn personojn, bestojn aŭ objektojn (venas el la Keĉua)
 
-En la lingvo indiki pluraleco, sekson aŭ homeco tute ne nepras, oni faras nur laŭbezone, do *ju* signifas *vi* kaj kiel en Esperanto tio povas esti uzata por paroli al unu aŭ plu personoj. Tamen Tapapiku ĝeneraligas la procedon por ĉiuj pronomoj, do *paj* signifas *li* sed ankaŭ *ŝi*, *ĝi* kaj *ili*. Pronomo *mi* bezonas precizigon, en Tapapiku indikas la grupon de parolanto do kompreneble povas signifi *mi* sed ankaŭ signifas *ni* nur en la kazoj, kie la celata ricevanto ne estas enkluzivigita.
+En la lingvo indiki pluralecon, sekson aŭ homecon tute ne nepras, oni faras nur laŭbezone, do *ju* signifas *vi* kaj kiel en Esperanto tio povas esti uzata por paroli al unu aŭ plu personoj. Tamen Tapapiku ĝeneraligas la procedon por ĉiuj pronomoj, do *paj* signifas *li* sed ankaŭ *ŝi*, *ĝi* kaj *ili*. Pronomo *mi* bezonas precizigon, en Tapapiku indikas la grupon de parolanto do kompreneble povas signifi *mi* sed ankaŭ signifas *ni* nur en la kazoj, kie la celata ricevanto ne estas enkluzivigita.
 
 > Mi pona 
 
