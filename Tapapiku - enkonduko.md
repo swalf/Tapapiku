@@ -42,54 +42,29 @@ Transkribo estas unu fonemo - unu litero.
 Tapapiku havas mezkomplikan silaban strukturon, kiel la vasta plejparto de la lingvoj. Oni difinas:
 
 V: vokaloj
-S: semivokaloj
+W: kvazaŭvokaloj
 K: konsonantoj (m,n,p,t,k,f,s,x,h,r,l)
 A: antaŭlikvaj konsonantoj: (k,p,t,f)
 L: likvaj konsonantoj (l,r)
+P: postsoaj konsonantoj (k,l,n,p,r,f,t,m)
 F: finalaj konsonantoj (n,l,s)
 
 Kiuj permesas krei silabojn faritaj laŭ la jena regulara esprimo:
 
-(K(S)|AL)V(S)(F)
+(K(W)|AL|sP)V(W)(F)
 
-Ekz. estas permesataj *ka*, *pan*, *e*, *tro*, *plu*, *waj*, *najs*, *kjun* sed ne *stra*, *ski*, *ste*, *kvo*
+Ekz. estas permesataj *ka*, *pan*, *e*, *tro*, *plu*, *waj*, *najs*, *ski*, *kjun* sed ne *stra*, *kvo*, *empi*, *shin*, *kso*
 
 
 ## Radikoj kaj derivaĵoj
 
-Ĉiuj radikoj reprezentas baze ĉiam nomajn konceptojn. Pluraj verboj povas esti formitaj el nomo, kiel mi klopodos klarigi poste. Derivitaj adjektivoj kaj adverboj havas la saman formon de la nomo.
+Ĉiuj radikoj reprezentas baze ĉiam nomajn konceptojn. Pluraj verboj povas esti formitaj el nomo, kiel mi klopodos klarigi poste. Ĉiuj nomoj finas per vokalo aŭ kvazaŭ vokaloj. Derivitaj verboj, adjektivoj kaj adverboj finas respektive per *s*, per *n* kaj per *l* post la lasta litero de la nomo.
 
-## Vortordo kaj modifila ordo.
+## Pluraleco, sekso, homeco
 
-Vortordo estas defaŭlte SVO tamen por dinamikaj verboj ĝi sufiĉe liberas danke al specialaj partikloj *la*, kiu markas la subjekto kaj *e*, kiu markas la objekto.
-Ekz. la frazo "La hundo manĝas katon"^^*
+En la lingvo indiki pluralecon, sekson aŭ homecon tute ne nepras, oni faras nur laŭbezone, tial Tapapiku ne havas devigajn gramatikajn montrilojn por pluraleco, sekso kaj homeco.
 
-> paw mokun maw
-
-Subjekto (Baw, hundo), Verbo (Mokun, manĝi), Objekto (Maw, kato) reskribeblas kiel 
-
-> e maw mukun la paw
-> mokun la paw e maw
-> mokun e maw la paw
-> la paw e maw mokun
-> e maw la paw mokun
-
-Sen ŝanĝi la signifon, sed nur la fokuson.
-
-> e maw mokun
-
-Povas esti uzata por simuli la pasivan diatezon, oni ne specifas la aganton tie.
-
-Kapo antaŭas siajn modifilojn, kiel en Tokipono kaj male al la Angla
-
-> maw mi
-
-Signifas tion, *mia kato* aŭ *la kato mias*. *Mi* havas la saman Esperanta signifo.
-
----
-\* ĉar *maw* modifas *mokun*, la antaŭa frazo "paw mokun maw" laŭlitere signifas "hundo manĝas kate", kiu povus signifi, ke la hundo manĝas kiel manĝus kato aŭ ke la hundo manĝas katon. Tio ĝenerale klaras laŭ la ĉirkaŭteksto. Se oni volas aŭ devas precizigi, la partiklo *e* uzendas. La frazo do estus:
-
-> paw mokun e maw
+Ekz. *paw* indikas unu aŭ pluraj hundoj, inaj, viraj aŭ aliseksaj. 
 
 ## Personaj pronomoj 
 
@@ -99,9 +74,9 @@ Tapapiku havas tri bazajn personajn pronomojn:
 - *Ju*: por indiki la grupon de la celata(j) ricevanto(j) (venas el la Angla kaj aliaj ĝermanaj lingoj)
 - *Paj*: por indiki la grupo de la aliajn personojn, bestojn aŭ objektojn (venas el la Keĉua)
 
-En la lingvo indiki pluralecon, sekson aŭ homecon tute ne nepras, oni faras nur laŭbezone, do *ju* signifas *vi* kaj kiel en Esperanto tio povas esti uzata por paroli al unu aŭ plu personoj. Tamen Tapapiku ĝeneraligas la procedon por ĉiuj pronomoj, do *paj* signifas *li* sed ankaŭ *ŝi*, *ĝi* kaj *ili*. Pronomo *mi* bezonas precizigon, en Tapapiku indikas la grupon de parolanto do kompreneble povas signifi *mi* sed ankaŭ signifas *ni* nur en la kazoj, kie la celata ricevanto ne estas enkluzivigita.
+*ju* signifas *vi* kaj kiel en Esperanto tio povas esti uzata por paroli al unu aŭ plu personoj. Tamen Tapapiku ĝeneraligas la procedon por ĉiuj pronomoj, do *paj* signifas *li* sed ankaŭ *ŝi*, *ĝi* kaj *ili*. Pronomo *mi* bezonas precizigon, en Tapapiku indikas la grupon de parolanto do kompreneble povas signifi *mi* sed ankaŭ signifas *ni* nur en la kazoj, kie la celata ricevanto ne estas enkluzivigita.
 
-> Mi pona 
+> Mi ponas 
 
 signifas "Mi estas bona" aŭ "ni estas bona" sed subcelante ke *vi* verŝajne ne estas bona. Por inkluzivigi vin oni devas uzi komponajn pronomojn.
 
@@ -110,53 +85,59 @@ Komponaj pronomoj estas:
 - *Jumi*: mi kaj vi, ni kaj vi
 - *Jupaj*: vi kaj aliaj krom mi
 - *Mipaj*: mi kaj aliaj krom vi
-- *Jumipaj*: ĉiuj
+- *Jumipaj*: egalas pli malpli la koncepto de la Esperanta *oni*
 
 Ni diris antaŭe, ke Tapapiku ne montras defaŭlte pluralecon, tamen uzante komponajn pronomojn, pluraleco estas klara en multaj kazoj por kiu utilas distingi. *Jumi* do estas preskaŭ ĉiam plurala pronomo, kvankam oni povas imagi singularan uzon en tre limigitaj ĉirkaŭtekstoj, ekz. verkante taglibron oni povus imagi uzi *Jumi* singulare, se oni skribas por si mem.     
+
+
+## Vortordo kaj modifila ordo.
+
+Vortordo rajtas esti SVO, SOV, OV, SV sed la objekto ne rajtas malsekvi la subjekton. 
+
+La partiklo *le* markas la objekton de la frazo kaj malsekvas la nomon.
+
+Ekzempla frazo SVO estas:
+
+> paw mokus le maw
+
+Kiu signifas, la hundo manĝas la katon.
+La frazo porvas esti riskribita per SOV:
+
+> paw le maw mokus
+
+Sen ŝanĝi la signifon, sed nur la fokuson.
+
+> le maw mokus
+
+Povas esti uzata por simuli la pasivan diatezon, oni ne specifas la aganton tie.
 
 ## dinamika kaj maldinamikaj verboj.
 
 Ni konsideru la radiko *pona*, kiu kiel Tokipone kaj multaj aliaj lingvoj reprezentas la ideon de bono.
 Per tiu radiko oni povas kostrui plurajn verbojn Tapapiku'e.
 
-> Mi pona
-
-Kiu signifas tion, "Mi bonas", samkiel en Tokipona. *Pona* rolas tie kiel maldinamika verbo. Verdire povas roli ankaŭ kiel modifanto de *mi* do laŭlitere "Mi bona", sed tiu diferenco ofte ne kreas miskomprenojn. En la kazoj, kie tio male okazas, oni povas uzi  la partiklojn *ja* kaj *ne*, kiuj signifas tion, *jes* kaj *ne*, por precizigi laŭ la stilo de Pandunia (kaj de aliaj neeŭropaj lingvoj).
-
-> Mi ja pona
-
-Mi + jes + bono, Mi estas bona,
-
-> Mi ne pona
-
-Mi + ne + bono, Mi ne estas bona.
-
-Tamen ofte oni bezonas dinamikajn verbojn.
-En Tapapiku, ĉiuj vortoj finiĝas per vokalo aŭ kvazaŭvokalo krom dinamikaj verboj, kiu finiĝas per *-n*, *-s* kaj *-l*. 
-Tio helpas, kaj permesi facilan ĉiesan elparolon, kaj indiki simple ĉu la verbo estas dinamika kaj ĝian direkton.
-
-- *-n*: indikas ke la ago estas dinamika al alia objekto
-- *-s*: indikas ke la ago estas dinamika al subjekto (refleksiva verbo)
-- *-l*: indikas ke la ago estas dinamika inter la subjektoj (mutuala verbo)
-
-Ni vidu kelkajn ekzemplojn.
-
-> Mi ponan
-
-Signifas, ke mi plibonigas ion. Ofte tiaj frazoj estos sekvataj de la objekto.
-
 > Mi ponas
 
-Signifas, ke mi iĝas bona aŭ ni iĝas bonaj.
+Kiu signifas tion, "Mi bonas", samkiel en Tokipona. *Pona* rolas tie kiel maldinamika verbo. 
 
-> Mi ponal
+Tamen ofte oni bezonas dinamikajn verbojn. Por tion fari Tapapiku uzas la partiklon *le*. Tiu ĉi partiklo malsekvas la objekton en dinamikaj frazoj.
 
-Estas pli interesa. Tio implikas ke ekzistas du subjektoj, do ke ni bonigas unu la alian.  
-En aliaj lingvoj oni ne uzas multe la formon *unu la alian* ĉar tiu informo ofte estas enkorpigita en la verbo mem.
+> Mi ponas le moku
 
-> Jumi tapal
+Signifas, *mi bonigas la manĝaĵon*. 
 
-Signifas tion, "Ni interparolas", kompreneble ni inkluzivigas la celata(j)n ricevanto(j)n.     
+Speciala kazo rilatas al la uzo kun pronomoj. Tiam la *le*-partiklo rajtas algluiĝi al la pronomo mem. Ekz.
+
+> Mi ponas leju
+> Mi leju ponas
+
+Se oni volus ne mencii tion, kion oni bonigas, objekto forlasendas sed partiklo *le* nepras por indiki la dinamikecon de la verbo. Por traduki *mi bonigas* oni uzas
+
+> Mi ponas le
+
+Kiam la objekto ne menciitas, oni ankaŭ rajtas ŝovi la *le*-partiklon antaŭ la verbo tiel:
+
+> Mi leponas
 
 [kontinuendas...]
 
