@@ -5,17 +5,17 @@ Xaw! Bonvenon al tiu enkonduko al la ĉielarka lingvo tapapiku! Tiu estas mia la
 
 Tapapiku mem estas kompona vorto, *tapa*, kiu signifas tion, *lingvo* kaj *parolado*, kaj *piku*, kiu havas la vastan signififon "la kvalito havi ĉiujn kaj ĉiajn kolorojn kaj nuancojn, esti unuigita per la malsamecoj". La vorto por la fizika ĉielarko ekzemple estas *pokepiku*, komponata de *poke*, arko (el la Sveda *Båge*) kaj piku. Sed *piku* tute taŭgas ankaŭ por homoj, ĉielarkuloj parolas tapapiku'n!
 
-Tapapiku estas mikse apriora kaj aposteriora lingvo. Multaj vortoj estas tute inventitaj, kelkaj vortoj mimas la sonon de tio, kion ili reprezentas (ili estas onomatopeaj) kaj aliaj estas adaptitaj, foje forte, por respekti ĝia fonemaro kaj gramatiko. Vortprovizo venas el multaj lingvoj, kun specifa atento al malgrandaj lingvoj. 
+Tapapiku estas mikse apriora kaj aposteriora lingvo. Multaj vortoj estas tute inventitaj, kelkaj vortoj mimas la sonon de tio, kion ili reprezentas (ili estas onomatopeaj) kaj aliaj estas adaptitaj, foje forte, por respekti ĝian fonemaron kaj gramatikon. Vortprovizo venas el multaj lingvoj, kun specifa atento al malgrandaj lingvoj. 
 
-Tapapiku estas inspirita de la Tokipona, Vorlin, la Keĉua, la Indonezia, Pandunia kaj multaj aliaj naturaj kaj artefaritaj lingvoj. Tapapiku celas esti mezsimpla, belsona kaj pova lingvo, tio malfacilegas kaj defias min.
+Tapapiku estas inspirita de la Tokipona, Vorlin, la Keĉua, la Indonezia, la Esperanta kaj multaj aliaj naturaj kaj artefaritaj lingvoj. Tapapiku celas esti mezsimpla, belsona kaj pova lingvo, tio malfacilegas kaj defias min.
 
 ## Fonemaro kaj alfabeto
 
 Fonemaro de la lingvo konsistas el 18 fonemoj: 11 konsonantoj reprezentataj latinalfabete de la literoj M, N, P, T, K, F, S, X, H, R, L; 5 vokaloj reprezentataj de A, E, I, O, U kaj 2 semivokaloj reprezentataj de W kaj J. Alia propra pli tapapiku'eca sistemo por transkribi fonemojn estas pripensota, se vi havas sugestojn, kontaktu min!
-Ili permesas grandan fonetikan variaĵon kiel ekzemple indikite sube:
+Ili permesas grandan fonetikan variaĵon kiel ekzemple indikite sube per IPA'aj literoj:
 
-| Simbolo | Eblaj fonetikaj realigoj |
-|------------|-------------------------------|
+| Simbolo | Ekzemploj de eblaj fonetikaj realigoj |
+|------------|--------------------------------------------------|
 M | m ɱ
 N | n n̪ ɳ ɲ ŋ ɴ
 P | p b p̪ b̪
@@ -41,13 +41,13 @@ Transkribo estas unu fonemo - unu litero.
 
 Tapapiku havas mezkomplikan silaban strukturon, kiel la vasta plejparto de la lingvoj. Oni difinas:
 
-V: vokaloj
-W: kvazaŭvokaloj
-K: konsonantoj (m,n,p,t,k,f,s,x,h,r,l)
-A: antaŭlikvaj konsonantoj: (k,p,t,f)
-L: likvaj konsonantoj (l,r)
-P: postsoaj konsonantoj (k,l,n,p,r,f,t,m)
-F: finalaj konsonantoj (n,l,s)
+- V: vokaloj
+- W: kvazaŭvokaloj
+- K: konsonantoj (m,n,p,t,k,f,s,x,h,r,l)
+- A: antaŭlikvaj konsonantoj: (k,p,t,f)
+- L: likvaj konsonantoj (l,r)
+- P: postsoaj konsonantoj (k,l,n,p,r,f,t,m)
+- F: finalaj konsonantoj (n,l,s)
 
 Kiuj permesas krei silabojn faritaj laŭ la jena regulara esprimo:
 
@@ -58,7 +58,11 @@ Ekz. estas permesataj *ka*, *pan*, *e*, *tro*, *plu*, *waj*, *najs*, *ski*, *kju
 
 ## Radikoj kaj derivaĵoj
 
-Ĉiuj radikoj reprezentas baze ĉiam nomajn konceptojn. Pluraj verboj povas esti formitaj el nomo, kiel mi klopodos klarigi poste. Ĉiuj nomoj finas per vokalo aŭ kvazaŭ vokaloj. Derivitaj verboj, adjektivoj kaj adverboj finas respektive per *s*, per *n* kaj per *l* post la lasta litero de la nomo.
+Krom konjunkcioj kaj kelkaj bazaj adverboj, Tapapiku'aj radikoj baziĝas sur nomoj. Nomoj ĉiam finas per vokaloj aŭ kvazaŭvokaloj. Por formi verboj, adjektivoj kaj adverboj oni faras kiel sekve.
+
+- Verboj: *-s* estas aldonata al la radiko. *amo* (amo) -> *amos* (amas, esti amata)
+- Adjektivoj: sama formo de nomoj, sed ili sekvas ĉiam nomoj aŭ vortgrupoj kiuj rolas kiel nomo. *pufi* (beleco) -> maw pufi (bela kato)
+- Adverboj: *-n* estas aldonata al la radiko. *wike* (rapideco) -> *wiken* (rapide)
 
 ## Pluraleco, sekso, homeco
 
@@ -89,56 +93,57 @@ Komponaj pronomoj estas:
 
 Ni diris antaŭe, ke Tapapiku ne montras defaŭlte pluralecon, tamen uzante komponajn pronomojn, pluraleco estas klara en multaj kazoj por kiu utilas distingi. *Jumi* do estas preskaŭ ĉiam plurala pronomo, kvankam oni povas imagi singularan uzon en tre limigitaj ĉirkaŭtekstoj, ekz. verkante taglibron oni povus imagi uzi *Jumi* singulare, se oni skribas por si mem.     
 
+Ekde nun, oni donos la tradukojn supozante la singulara sekseneŭtra formo, krom kie male dirite. Tamen memoru, ke la tradukoj validas ankaŭ por la aliaj formoj.
 
-## Vortordo kaj modifila ordo.
+## Partikloj ka, se, si, kli
 
-Vortordo rajtas esti SVO, SOV, OV, SV sed la objekto ne rajtas malsekvi la subjekton. 
+Tiuj partiklo estas gravegaj en Tapapiku, ĉar permesas ŝanĝi la signifon de la tutan frazon. Ili enkondukas nominalajn grupojn (troviĝeblas antaŭ la nomoj) kaj keze de pronomoj povas esti algluitaj al ili.
 
-La partiklo *le* markas la objekton de la frazo kaj malsekvas la nomon.
-
-Ekzempla frazo SVO estas:
-
-> paw mokus le maw
-
-Kiu signifas, la hundo manĝas la katon.
-La frazo porvas esti riskribita per SOV:
-
-> paw le maw mokus
-
-Sen ŝanĝi la signifon, sed nur la fokuson.
-
-> le maw mokus
-
-Povas esti uzata por simuli la pasivan diatezon, oni ne specifas la aganton tie.
-
-## dinamika kaj maldinamikaj verboj.
-
-Ni konsideru la radiko *pona*, kiu kiel Tokipone kaj multaj aliaj lingvoj reprezentas la ideon de bono.
-Per tiu radiko oni povas kostrui plurajn verbojn Tapapiku'e.
+Ni revenu al la frazo 
 
 > Mi ponas
 
-Kiu signifas tion, "Mi bonas", samkiel en Tokipona. *Pona* rolas tie kiel maldinamika verbo. 
+Tiu, kiel vi scias, signifas *Mi estas bona*. Tamen aldonante la partiklon *ka* al la nominala grupo, tiu iĝas la agento de la frazo. Ekz.
 
-Tamen ofte oni bezonas dinamikajn verbojn. Por tion fari Tapapiku uzas la partiklon *le*. Tiu ĉi partiklo malsekvas la objekton en dinamikaj frazoj.
+> Kami ponas
 
-> Mi ponas le moku
+Signifas *mi ponigas*, *mi malfuŝas*.
+Kiam oni volas verbaligi nomon celante transitivecon, oni ĉiam devas aldoni unu el el tiuj partikloj al la aganto. 
+Ni rimarku tion per la nomo *moku*, manĝaĵo
 
-Signifas, *mi bonigas la manĝaĵon*. 
+> Mi mokus
 
-Speciala kazo rilatas al la uzo kun pronomoj. Tiam la *le*-partiklo rajtas algluiĝi al la pronomo mem. Ekz.
+Havas la malofte celatan sencon de *mi estas manĝaĵo* kaj por esprimi, ke mi manĝas oni devas uzi anstataŭ
 
-> Mi ponas leju
-> Mi leju ponas
+> Kami mokus
 
-Se oni volus ne mencii tion, kion oni bonigas, objekto forlasendas sed partiklo *le* nepras por indiki la dinamikecon de la verbo. Por traduki *mi bonigas* oni uzas
+La partiklo *kli* signifas pli-malpli, ke nominala grupo estas la kaŭzanto de la ago kun ka. Tio Esperante ofte oni realigas per sufikso -ig
 
-> Mi ponas le
+> Klimi mokus ju
 
-Kiam la objekto ne menciitas, oni ankaŭ rajtas ŝovi la *le*-partiklon antaŭ la verbo tiel:
+signifas *mi manĝigas vin*, *mi nutras vin*
 
-> Mi leponas
+Partikloj *se* kaj *si* utilas por krei refleksivajn frazojn sed la dua aldonas la sencon de reciprokeco.
 
+> Sejumi amos
+> Sijumi  amos
+
+La unua signifas, ke ciuj el mi kaj vi amas si mem, la dua, ke ni amas unu la alian.
+ 
+Oni notu do, ke Tapapiku tranktas la subjekton de netransita verbo kaj la objekto de transitiva same, do male al pluraj Eŭropaj lingvoj, Tapapiku estas ergativa lingvo do anstataŭ paroli pri subjekto kaj objekto oni parolas pri aganto kaj ricevanto.
+
+## Vortordo kaj modifila ordo.
+
+Eblas havi ĉiujn vortordojn Tapapiku'e, sed kaze de neceso, por distingi du nominalajn grupojn, oni uzu partiklo *e*. La sekvaj estas ĉiuj tradukoj de la frazo *la nigra kato manĝas la flavan fiŝon*, sed la fokuso de la frazo ŝanĝas.
+
+- PVA: pluplu lala mokus ka maw nua
+- AVP: ka maw nua mokus pluplu lala
+- PAV: pluplu lala ka maw nua mokus
+- APV: ka maw nua e pluplu lala mokus
+- VPA: mokus pluplu lala ka maw nua
+- VAP: mokus ka maw nua e pluplu lala
+
+Tiu libereco utilas ankaŭ por simuli malaktiva diatezon, *pluplu lala mokus* tradukeblas ekzemple, kiel *la flava fiŝo estas manĝata*
 [kontinuendas...]
 
 
