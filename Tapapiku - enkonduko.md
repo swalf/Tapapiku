@@ -125,12 +125,13 @@ signifas *mi manĝigas vin*, *mi nutras vin*
 
 Partikloj *se* kaj *si* utilas por krei refleksivajn frazojn sed la dua aldonas la sencon de reciprokeco.
 
-> Sejumi amos
+> Sejumi amos 
+
 > Sijumi  amos
 
 La unua signifas, ke ciuj el mi kaj vi amas si mem, la dua, ke ni amas unu la alian.
  
-Oni notu do, ke Tapapiku tranktas la subjekton de netransita verbo kaj la objekto de transitiva same, do male al pluraj Eŭropaj lingvoj, Tapapiku estas ergativa lingvo do anstataŭ paroli pri subjekto kaj objekto oni parolas pri aganto kaj ricevanto.
+Oni notu do, ke Tapapiku tranktas la subjekton de netransitiva verbo kaj la objekto de transitiva same, do male al pluraj Eŭropaj lingvoj, Tapapiku estas ergativa lingvo do anstataŭ paroli pri subjekto kaj objekto oni parolas pri aganto kaj ricevanto.
 
 ## Vortordo kaj modifila ordo.
 
@@ -144,6 +145,7 @@ Eblas havi ĉiujn vortordojn Tapapiku'e, sed kaze de neceso, por distingi du nom
 - VAP: mokus ka maw nua e pluplu lala
 
 Tiu libereco utilas ankaŭ por simuli malaktiva diatezon, *pluplu lala mokus* tradukeblas ekzemple, kiel *la flava fiŝo estas manĝata*
+
 [kontinuendas...]
 
 
