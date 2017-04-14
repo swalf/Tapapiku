@@ -9,6 +9,9 @@ Tapapiku estas mikse apriora kaj aposteriora lingvo. Multaj vortoj estas tute in
 
 Tapapiku estas inspirita de la Tokipona, Vorlin, la Keĉua, la Indonezia, la Esperanta kaj multaj aliaj naturaj kaj artefaritaj lingvoj. Tapapiku celas esti mezsimpla, belsona kaj pova lingvo, tio malfacilegas kaj defias min.
 
+----
+Rimarko por la sekva teksto: la vortoj ĉi tie prezentitaj ne estas ankoraŭ defitivaj kaj utilas nur por prezenti lingvajn konceptojn. Se vi havas sugestojn pri eblaj radikoj, partoprenu al la vortarkreado!
+
 ## Fonemaro kaj alfabeto
 
 Fonemaro de la lingvo konsistas el 18 fonemoj: 11 konsonantoj reprezentataj latinalfabete de la literoj M, N, P, T, K, F, S, X, H, R, L; 5 vokaloj reprezentataj de A, E, I, O, U kaj 2 semivokaloj reprezentataj de W kaj J. Alia propra pli tapapiku'eca sistemo por transkribi fonemojn estas pripensota, se vi havas sugestojn, kontaktu min!
@@ -146,7 +149,27 @@ Eblas havi ĉiujn vortordojn Tapapiku'e, sed kaze de neceso, por distingi du nom
 
 Tiu libereco utilas ankaŭ por simuli malaktiva diatezon, *pluplu lala mokus* tradukeblas ekzemple, kiel *la flava fiŝo estas manĝata*
 
+## Subfrazoj
+
+Dependantaj subfrazoj formiĝeblas per limvortoj *pi* kaj *lon*.
+Ili metendas respektive je la komenco kaj je la fino de la subfrazo. Se tiuj vortoj estas je la komenco aŭ je la fino de la frazo, ili povas esti forlasitaj.
+Sekvas ekzemploj:
+
+> paw, pi kami hes axofjun lon, pufis
+(la hundo, kiun mi havis infanaĝe, estis bela)
+
+> jumipaj lopis xuj tage kalon ponaplis sano
+
+> ponaplis sano kapi jumipaj lopis xuj tage
+(kuri ĉiujn tagojn plibonigas la sanon)
+
+> tutis tapa niw lon funis
+(krei novajn lingvojn estas amuza)
+
+
+
 [kontinuendas...]
+
 
 
 
