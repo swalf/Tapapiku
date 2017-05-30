@@ -7,10 +7,10 @@ Tapapiku mem estas kompona vorto, *tapa*, kiu signifas tion, *lingvo* kaj *parol
 
 Tapapiku estas mikse apriora kaj aposteriora lingvo. Multaj vortoj estas tute inventitaj, kelkaj vortoj mimas la sonon de tio, kion ili reprezentas (ili estas onomatopeaj) kaj aliaj estas adaptitaj, foje forte, por respekti ĝian fonemaron kaj gramatikon. Vortprovizo venas el multaj lingvoj, kun specifa atento al malgrandaj lingvoj. 
 
-Tapapiku estas inspirita de la Tokipona, Vorlin, la Keĉua, la Indonezia, la Esperanta kaj multaj aliaj naturaj kaj artefaritaj lingvoj. Tapapiku celas esti mezsimpla, belsona kaj pova lingvo, tio malfacilegas kaj defias min.
+Tapapiku estas inspirita de Tokipona, Vorlin, la Keĉua, la Indonezia, la Esperanta kaj multaj aliaj naturaj kaj artefaritaj lingvoj. Tapapiku celas esti mezsimpla, belsona kaj pova lingvo, tio malfacilegas kaj defias min.
 
 ----
-Rimarko por la sekva teksto: la vortoj ĉi tie prezentitaj ne estas ankoraŭ defitivaj kaj utilas nur por prezenti lingvajn konceptojn. Se vi havas sugestojn pri eblaj radikoj, partoprenu al la vortarkreado!
+Rimarko por la sekva teksto: la vortoj ĉi tie prezentitaj ne estas ankoraŭ vere fiksitaj kaj utilas nur por prezenti lingvajn konceptojn. Se vi havas sugestojn pri eblaj radikoj, partoprenu al la vortarkreado!
 
 ## Fonemaro kaj alfabeto
 
@@ -47,16 +47,13 @@ Tapapiku havas mezkomplikan silaban strukturon, kiel la vasta plejparto de la li
 - V: vokaloj
 - W: kvazaŭvokaloj
 - K: konsonantoj (m,n,p,t,k,f,s,x,h,r,l)
-- A: antaŭlikvaj konsonantoj: (k,p,t,f)
-- L: likvaj konsonantoj (l,r)
-- P: postsoaj konsonantoj (k,l,n,p,r,f,t,m)
 - F: finalaj konsonantoj (n,l,s)
 
 Kiuj permesas krei silabojn faritaj laŭ la jena regulara esprimo:
 
-(K(W)|AL|sP)V(W)(F)
+(K)(W)V([F|W])
 
-Ekz. estas permesataj *ka*, *pan*, *e*, *tro*, *plu*, *waj*, *najs*, *ski*, *kjun* sed ne *stra*, *kvo*, *empi*, *shin*, *kso*
+Ekz. estas permesataj *ka*, *pan*, *e*, *ju*, *waj*, *kjun* sed ne *tro*, *plu*, *kvo*, *empi*, *shin*, *kso*, *najs*, *ski*...
 
 
 ## Radikoj kaj derivaĵoj
@@ -81,7 +78,7 @@ Tapapiku havas tri bazajn personajn pronomojn:
 - *Ju*: por indiki la grupon de la celata(j) ricevanto(j) (venas el la Angla kaj aliaj ĝermanaj lingoj)
 - *Paj*: por indiki la grupo de la aliajn personojn, bestojn aŭ objektojn (venas el la Keĉua)
 
-*ju* signifas *vi* kaj kiel en Esperanto tio povas esti uzata por paroli al unu aŭ plu personoj. Tamen Tapapiku ĝeneraligas la procedon por ĉiuj pronomoj, do *paj* signifas *li* sed ankaŭ *ŝi*, *ĝi* kaj *ili*. Pronomo *mi* bezonas precizigon, en Tapapiku indikas la grupon de parolanto do kompreneble povas signifi *mi* sed ankaŭ signifas *ni* nur en la kazoj, kie la celata ricevanto ne estas enkluzivigita.
+*ju* signifas *vi* kaj kiel en Esperanto tio povas esti uzata por paroli al unu aŭ plu personoj. Tamen Tapapiku ĝeneraligas la procedon por ĉiuj pronomoj, do *paj* signifas *li* sed ankaŭ *ŝi*, *ĝi* kaj *ili*. Pronomo *mi* bezonas precizigon, en Tapapiku ĝi indikas la grupon de parolanto do kompreneble povas signifi *mi* sed ankaŭ signifas *ni* nur en la kazoj, kie la celata ricevanto ne estas enkluzivigita.
 
 > Mi ponas 
 
@@ -98,74 +95,97 @@ Ni diris antaŭe, ke Tapapiku ne montras defaŭlte pluralecon, tamen uzante komp
 
 Ekde nun, oni donos la tradukojn supozante la singulara sekseneŭtra formo, krom kie male dirite. Tamen memoru, ke la tradukoj validas ankaŭ por la aliaj formoj.
 
-## Partikloj ka, se, si, kli
+## Partikloj ka, e, me, mu
 
-Tiuj partiklo estas gravegaj en Tapapiku, ĉar permesas ŝanĝi la signifon de la tutan frazon. Ili enkondukas nominalajn grupojn (troviĝeblas antaŭ la nomoj) kaj keze de pronomoj povas esti algluitaj al ili.
+Tiuj partiklo estas gravegaj en Tapapiku, ĉar permesas ŝanĝi la signifon de la tutan frazon. Ili enkondukas nominalajn grupojn (ili troveblas antaŭ la nomoj) kaj, kaze de pronomoj, povas esti algluitaj al ili.
 
 Ni revenu al la frazo 
 
-> Mi ponas
+> mi ponas
 
 Tiu, kiel vi scias, signifas *Mi estas bona*. Tamen aldonante la partiklon *ka* al la nominala grupo, tiu iĝas la agento de la frazo. Ekz.
 
-> Kami ponas
+> kami ponas
 
 Signifas *mi ponigas*, *mi malfuŝas*.
-Kiam oni volas verbaligi nomon celante transitivecon, oni ĉiam devas aldoni unu el el tiuj partikloj al la aganto. 
+Kiam oni volas verbaligi nomon celante transitivecon, oni ĉiam devas aldoni unu el el tiuj partikloj al la aganto kaj ricevanto. 
 Ni rimarku tion per la nomo *moku*, manĝaĵo
 
-> Mi mokus
+> mi mokus
 
 Havas la malofte celatan sencon de *mi estas manĝaĵo* kaj por esprimi, ke mi manĝas oni devas uzi anstataŭ
 
 > Kami mokus
 
-La partiklo *kli* signifas pli-malpli, ke nominala grupo estas la kaŭzanto de la ago kun ka. Tio Esperante ofte oni realigas per sufikso -ig
+La partiklo *e* signifas, ke nominala grupo estas la ricevanto de la ago kun ka. Tio Esperante ofte oni realigas aldonante la akuzativon al la nomo.
 
-> Klimi mokus ju
+> emi mokus 
 
-signifas *mi manĝigas vin*, *mi nutras vin*
+signifas *Oni manĝas min*, *mi estas manĝata*
 
-Partikloj *se* kaj *si* utilas por krei refleksivajn frazojn sed la dua aldonas la sencon de reciprokeco.
+Partikloj *me* kaj *mu* utilas por krei refleksivajn frazojn sed la dua aldonas la sencon de reciprokeco.
 
-> Sejumi amos 
+> mejumi amos 
 
-> Sijumi  amos
+> mujumi amos
 
-La unua signifas, ke ciuj el mi kaj vi amas si mem, la dua, ke ni amas unu la alian.
- 
-Oni notu do, ke Tapapiku tranktas la subjekton de netransitiva verbo kaj la objekto de transitiva same, do male al pluraj Eŭropaj lingvoj, Tapapiku estas ergativa lingvo do anstataŭ paroli pri subjekto kaj objekto oni parolas pri aganto kaj ricevanto.
+La unua signifas, ke ciuj el mi kaj vi amas si mem, la dua, ke mi kaj vi amas unu la alian.
 
 ## Vortordo kaj modifila ordo.
 
-Eblas havi ĉiujn vortordojn Tapapiku'e, sed kaze de neceso, por distingi du nominalajn grupojn, oni uzu partiklo *e*. La sekvaj estas ĉiuj tradukoj de la frazo *la nigra kato manĝas la flavan fiŝon*, sed la fokuso de la frazo ŝanĝas.
+Eblas havi ĉiujn vortordojn Tapapiku'e. La sekvaj estas ĉiuj tradukoj de la frazo *la nigra kato manĝas la flavan fiŝon*, sed la fokuso de la frazo ŝanĝas.
 
-- PVA: pluplu lala mokus ka maw nua
-- AVP: ka maw nua mokus pluplu lala
-- PAV: pluplu lala ka maw nua mokus
+- PVA: e pluplu lala mokus ka maw nua
+- AVP: ka maw nua mokus e pluplu lala
+- PAV: e pluplu lala ka maw nua mokus
 - APV: ka maw nua e pluplu lala mokus
-- VPA: mokus pluplu lala ka maw nua
+- VPA: mokus e pluplu lala ka maw nua
 - VAP: mokus ka maw nua e pluplu lala
 
-Tiu libereco utilas ankaŭ por simuli malaktiva diatezon, *pluplu lala mokus* tradukeblas ekzemple, kiel *la flava fiŝo estas manĝata*
+Tiu libereco utilas ankaŭ por simuli malaktiva diatezon, *e pluplu lala mokus* tradukeblas ekzemple, kiel *la flava fiŝo estas manĝata*
 
 ## Subfrazoj
 
-Dependantaj subfrazoj formiĝeblas per limvortoj *pi* kaj *lon*.
-Ili metendas respektive je la komenco kaj je la fino de la subfrazo. Se tiuj vortoj estas je la komenco aŭ je la fino de la frazo, ili povas esti forlasitaj.
+Dependantaj subfrazoj formeblas per pronomo *ki*, uzeblas por relativigi frazojn.
 Sekvas ekzemploj:
 
-> paw, pi kami hes axofjun lon, pufis
+> paw, eki kami hes axofjun, pufis
 (la hundo, kiun mi havis infanaĝe, estis bela)
 
-> jumipaj lopis xuj tage kalon ponaplis sano
+> e maw, kaki mokus e pluplu, ka paw mokus tel
+(la kato, kiu manĝas la fiŝon, estos manĝata de la hundo)
 
-> ponaplis sano kapi jumipaj lopis xuj tage
-(kuri ĉiujn tagojn plibonigas la sanon)
+> ka homo, muki amos, ponas e vola
 
-> tutis tapa niw lon funis
-(krei novajn lingvojn estas amuza)
+(La homoj, kiuj amas unu la alian, bonigas la mondon)
 
+> maw, meki puras, abunes 
+
+(La katoj, kiuj sin purigas, oftas)
+
+## Tempomarkiloj
+
+Kvankam en Tapapiku ne nepras aldoni tempan indikon male al Esperanto, foje tio estas bezonata por la bona kompreno de la frazo.
+
+- mumun: hodiaŭ
+- tamin: morgaŭ
+- pilen: hieraŭ
+
+> eki kaju mokus mumun, eki kaju mel mokus tamin
+
+(Tion, kion vi manĝas hodiaŭ, vi ne manĝos morgaŭ)
+
+- tel: poste
+- anil: antaŭ
+- njul: nun
+
+> e pako felekes nunin
+
+(la pakaĵo estas alvenanta)
+
+> anil memi iris al lokokino, bal njul memi nel 
+
+(mi iris al la kinejo, sed nun mi ne plu iras)
 
 
 [kontinuendas...]
