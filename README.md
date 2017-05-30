@@ -5,8 +5,8 @@
 
 Tapapiku estas nova lingvoprojekto. Ĝi celas esti ĉielarka lingvo kaj stimuli novajn kielojn por esprimi sin mem kaj interkompreni unu la alian, la respekton por ĉiesaj malsamecoj kaj la homan unuiĝon.
 
-Tapapiku nuntempe estas nur granda aro de lingvaj ideoj, kiujn la verkanto kreskigis el siaj pasintaj lingvoprojektoj kaj aliaj lingvoj, artefaritaj aŭ naturaj. 
-Se vi estas lingvokostruema, se vi estas ĉielarkulo aŭ simple vi amas viajn lingvojn helpu ĉi projekton, kaj donante kaj ordigante gramatikajn ideojn, kaj proponante radikojn kaj vortkombinaĵojn, kiujn vi specife ŝatas kaj vi opinias taŭgaj por esprimi novajn konceptojn.
+Tapapiku nuntempe estas nur granda aro de lingvaj ideoj, kiujn la verkanto kreskis el propraj pasintaj lingvoprojektoj kaj aliaj lingvoj, artefaritaj aŭ naturaj. 
+Se vi estas lingvokostruema, se vi estas ĉielarkulo aŭ simple vi amas viajn lingvojn helpu ĉi-projekton, kaj donante kaj ordigante gramatikajn ideojn, kaj proponante radikojn kaj vortkombinaĵojn, kiujn vi specife ŝatas kaj vi opinias taŭgaj por esprimi novajn konceptojn.
 
 Ĉu vi interesiĝas? Legu la [etan enkondukon](https://github.com/swalf/Tapapiku/blob/master/Tapapiku%20-%20enkonduko.md) al la lingvo!
 
